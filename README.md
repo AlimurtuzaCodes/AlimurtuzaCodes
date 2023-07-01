@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimurtuzacodes&show_icons=true&locale=en" alt="alimurtuzacodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimurtuzacodes&" alt="alimurtuzacodes" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alimurtuzacodes&theme=garden&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
