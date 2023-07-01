@@ -1,27 +1,38 @@
-<h1 align="center">Hi 👋, I'm Alimurtuza Patrawala</h1>
-<h3 align="center">A passionate Mobile/Web App developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimurtuzacodes&label=Profile%20views&color=0e75b6&style=flat" alt="alimurtuzacodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimurtuzacodes" alt="alimurtuzacodes" /></a> </p>
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Android, React Js, Tailwind CSS**
-
-- 📫 How to reach me **alimurtuzapatrawala100@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/p-alimurtuza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p-alimurtuza" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alimurtuzapatra2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alimurtuzapatra2" height="30" width="40" /></a>
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' width="60%" height="30%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimurtuzacodes&show_icons=true&locale=en&layout=compact" alt="alimurtuzacodes" /></p>
+<p align='center'>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B58900&width=435&lines=Passionate+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimurtuzacodes&show_icons=true&locale=en" alt="alimurtuzacodes" /></p>
+<img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alimurtuzacodes&theme=garden&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align='center'>
+  <img align='left' src='https://github.com/AlimurtuzaCodes/AlimurtuzaCodes/assets/88965204/39ecc842-8fc2-4fe8-a638-f097831f38fc' width='60%'/>
+  <img src='https://github-profile-trophy.vercel.app/?username=AlimurtuzaCodes&title=MultiLanguage,PullRequest,Repositories,Commits&theme=onestar&margin-w=15&margin-h=20&no-bg=true&column=2'/>
+</p>
+
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,flutter,androidstudio,html,css,py,java,cpp,figma)](https://skillicons.dev)
+    
+</details>
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
+
+<p align='center'>
+    <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimurtuzacodes&theme=solarized'/>
+    <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimurtuzacodes&theme=solarized'/>
+</p>
+
+![Snake animation](https://github.com/AlimurtuzaCodes/AlimurtuzaCodes/blob/output/github-contribution-grid-snake.svg)
+
